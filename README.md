@@ -1,7 +1,8 @@
 # 사진 출석부 크롭 도구 (Photo Crop App)
 
 사진 출석부 PDF(나이스 양식 등)에서 학생들 각각의 사진을 인식하여 크롭(잘라내기)하고, 학년/반/번호/이름 정보를 추출하여 자동으로 파일명을 부여해주는 도구입니다.
-<img width="619" height="627" alt="image" src="https://github.com/user-attachments/assets/f98ea585-ab6a-4e48-8a8a-d6cdf5f873c2" />
+
+<img width="500" height="505" alt="image" src="https://github.com/user-attachments/assets/f98ea585-ab6a-4e48-8a8a-d6cdf5f873c2" />
 
 ## 주요 기능
 - **다양한 종류의 PDF 지원:** 저화질 스캔본 및 고화질 벡터 PDF(나이스 사진명렬표 등) 두루 지원
