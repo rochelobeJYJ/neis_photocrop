@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+*.spec
+.env
+venv/
+.venv/
+_test_output/
+_test_output2/
+_diagnosis_output/
+*.pdf
+알수없음_*.png
+*.png
